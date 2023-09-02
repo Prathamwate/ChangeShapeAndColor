@@ -14,4 +14,4 @@ document.getElementsByClassName to get collection of classes.
 element.className to set or update the name of the element.
 
 ## Hosted Link
-- https://ameya-shinde.github.io/Day10CW/
+- (https://prathamwate.github.io/ChangeShapeAndColor/)https://prathamwate.github.io/ChangeShapeAndColor/
